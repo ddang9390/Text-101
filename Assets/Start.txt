@@ -1,0 +1,7 @@
+﻿You wake up and see a bomb in the middle of the room.
+There is an exit on the North and South ends of the room.
+
+What should I do?
+
+1. Take the North exit
+2. Take the South exit
